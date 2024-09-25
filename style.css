@@ -1,0 +1,466 @@
+.macbook-air {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-air .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1280px;
+  height: 3547px;
+  position: relative;
+}
+
+.macbook-air .overlap {
+  position: absolute;
+  width: 1446px;
+  height: 1039px;
+  top: -21px;
+  left: -60px;
+}
+
+.macbook-air .main-page {
+  position: absolute;
+  width: 1446px;
+  height: 1039px;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 1039px;
+}
+
+.macbook-air .sdotarlac {
+  position: absolute;
+  width: 1280px;
+  height: 1018px;
+  top: 21px;
+  left: 60px;
+  object-fit: cover;
+}
+
+.macbook-air .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 135px;
+  top: 0;
+  left: 0;
+  background-color: #db062c91;
+}
+
+.macbook-air .navbar {
+  position: absolute;
+  width: 1175px;
+  height: 68px;
+  top: 60px;
+  left: 119px;
+}
+
+.macbook-air .text-wrapper {
+  width: 134px;
+  left: 342px;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit";
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .text-wrapper-2 {
+  position: absolute;
+  width: 164px;
+  top: 0;
+  left: 541px;
+  font-family: "Kanit";
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .text-wrapper-3 {
+  width: 96px;
+  left: 770px;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit";
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .text-wrapper-4 {
+  width: 220px;
+  left: 943px;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit";
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .text-wrapper-5 {
+  position: absolute;
+  width: 125px;
+  top: 0;
+  left: 156px;
+  font-family: "Kanit";
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .text-wrapper-6 {
+  width: 118px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  font-family: "Kanit";
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .mabuhay-ka-SDO {
+  position: absolute;
+  width: 1006px;
+  top: 300px;
+  left: 220px;
+  -webkit-text-stroke: 2px #000000;
+  font-family: "Feeling Passionate";
+  font-weight: 400;
+  color: #ffd646;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: -6.72px;
+  line-height: 141.1px;
+}
+
+.macbook-air .span {
+  letter-spacing: -6.45px;
+}
+
+.macbook-air .text-wrapper-7 {
+  font-family: "Figma Hand-Regular", Helvetica;
+  letter-spacing: -6.45px;
+}
+
+.macbook-air .SCHOOLS-DIVISION-OF {
+  position: absolute;
+  width: 800px;
+  top: 184px;
+  left: 315px;
+  font-family: "Kanit";
+  font-weight: 700;
+  color: transparent;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 4.2px;
+  line-height: 70px;
+}
+
+.macbook-air .text-wrapper-8 {
+  color: #070e84;
+  letter-spacing: 2.94px;
+}
+
+.macbook-air .text-wrapper-9 {
+  color: #000000;
+  letter-spacing: 2.94px;
+}
+
+.macbook-air .text-wrapper-10 {
+  color: #db062c;
+  letter-spacing: 2.94px;
+}
+
+.macbook-air .for-your-feedback {
+  position: absolute;
+  width: 485px;
+  top: 745px;
+  left: 660px;
+  font-family: "Kanit-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: right;
+  letter-spacing: 1.2px;
+  line-height: 20px;
+}
+
+.macbook-air .qrcoderight {
+  position: absolute;
+  width: 142px;
+  height: 196px;
+  top: 639px;
+  left: 1162px;
+  object-fit: cover;
+}
+
+.macbook-air .qrcodeleft {
+  position: absolute;
+  width: 143px;
+  height: 196px;
+  top: 639px;
+  left: 94px;
+  object-fit: cover;
+}
+
+.macbook-air .rectangle-2 {
+  position: absolute;
+  width: 1280px;
+  height: 183px;
+  top: 850px;
+  left: 60px;
+  background-color: #db062c;
+}
+
+.macbook-air .DEPED-logos {
+  position: absolute;
+  top: 905px;
+  left: 529px;
+  font-family: "Norwester";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 70px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 70px;
+  white-space: nowrap;
+}
+
+.macbook-air .transparency-seal {
+  position: absolute;
+  width: 331px;
+  height: 331px;
+  top: 1124px;
+  left: 106px;
+  object-fit: cover;
+}
+
+.macbook-air .bagong-pilipinas {
+  position: absolute;
+  width: 331px;
+  height: 331px;
+  top: 1124px;
+  left: 466px;
+  object-fit: cover;
+}
+
+.macbook-air .depedlogo {
+  position: absolute;
+  width: 331px;
+  height: 331px;
+  top: 1124px;
+  left: 826px;
+  object-fit: cover;
+}
+
+.macbook-air .image {
+  width: 71px;
+  left: 1210px;
+  position: absolute;
+  height: 119px;
+  top: 1221px;
+  object-fit: cover;
+}
+
+.macbook-air .img {
+  width: 69px;
+  left: 5px;
+  position: absolute;
+  height: 119px;
+  top: 1221px;
+  object-fit: cover;
+}
+
+.macbook-air .about-us-wrapper {
+  position: absolute;
+  width: 1280px;
+  height: 114px;
+  top: 1665px;
+  left: 0;
+  background-color: #062d70;
+}
+
+.macbook-air .about-us {
+  position: absolute;
+  top: 21px;
+  left: 507px;
+  font-family: "Norwester";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 70px;
+  white-space: nowrap;
+}
+
+.macbook-air .PCTABLET-VERSION {
+  position: absolute;
+  width: 548px;
+  height: 582px;
+  top: 1841px;
+  left: 683px;
+  object-fit: cover;
+}
+
+.macbook-air .PCTABLET-VERSION-2 {
+  position: absolute;
+  width: 577px;
+  height: 592px;
+  top: 1831px;
+  left: 33px;
+  object-fit: cover;
+}
+
+.macbook-air .div-wrapper {
+  position: absolute;
+  width: 1280px;
+  height: 114px;
+  top: 2494px;
+  left: 6px;
+  background-color: #db062c;
+}
+
+.macbook-air .PCTABLET-VERSION-3 {
+  position: absolute;
+  width: 548px;
+  height: 578px;
+  top: 2675px;
+  left: 45px;
+  object-fit: cover;
+}
+
+.macbook-air .PCTABLET-VERSION-4 {
+  position: absolute;
+  width: 554px;
+  height: 596px;
+  top: 2657px;
+  left: 702px;
+  object-fit: cover;
+}
+
+.macbook-air .overlap-2 {
+  position: absolute;
+  width: 1280px;
+  height: 223px;
+  top: 3324px;
+  left: 0;
+  background-color: #062d70;
+}
+
+.macbook-air .macabulos-drive-brgy {
+  position: absolute;
+  top: 120px;
+  left: 992px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 15px;
+}
+
+.macbook-air .TO-CONTACT {
+  position: absolute;
+  top: -30px;
+  left: 389px;
+  font-family: "Norwester";
+  font-weight: 400;
+  color: transparent;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 70px;
+  white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-11 {
+  color: #ffffff;
+}
+
+.macbook-air .text-wrapper-12 {
+  color: #ff0000;
+}
+
+.macbook-air .text-wrapper-13 {
+  position: absolute;
+  top: 139px;
+  left: 171px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 15px;
+  white-space: nowrap;
+}
+
+.macbook-air .element {
+  position: absolute;
+  top: 120px;
+  left: 610px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 15px;
+}
+
+.macbook-air .EMAIL-recolor-to {
+  position: absolute;
+  width: 73px;
+  height: 73px;
+  top: 111px;
+  left: 91px;
+  object-fit: cover;
+}
+
+.macbook-air .CALL-recolor-to {
+  position: absolute;
+  width: 73px;
+  height: 73px;
+  top: 111px;
+  left: 527px;
+  object-fit: cover;
+}
+
+.macbook-air .LOCATION-recolor-to {
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  top: 113px;
+  left: 911px;
+  object-fit: cover;
+}
