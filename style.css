@@ -1,3 +1,4 @@
+
 .macbook-air {
   background-color: #ffffff;
   display: flex;
@@ -9,68 +10,68 @@
 .macbook-air .div {
   background-color: #ffffff;
   overflow: hidden;
-  width: 1280px;
-  height: 3547px;
+  width: 1920px;
+  height: 4655px;
   position: relative;
 }
 
 .macbook-air .overlap {
   position: absolute;
-  width: 1446px;
-  height: 1039px;
-  top: -21px;
-  left: -60px;
+  width: 2016px;
+  height: 1118px;
+  top: -38px;
+  left: -85px;
 }
 
 .macbook-air .main-page {
   position: absolute;
-  width: 1446px;
-  height: 1039px;
+  width: 2016px;
+  height: 1118px;
   top: 0;
   left: 0;
 }
 
 .macbook-air .overlap-group {
   position: relative;
-  width: 1440px;
-  height: 1039px;
+  width: 2010px;
+  height: 1118px;
 }
 
-.macbook-air .sdotarlac {
+.macbook-air .mainbackground {
   position: absolute;
-  width: 1280px;
-  height: 1018px;
-  top: 21px;
-  left: 60px;
+  width: 1920px;
+  height: 1080px;
+  top: 38px;
+  left: 85px;
   object-fit: cover;
 }
 
 .macbook-air .rectangle {
   position: absolute;
-  width: 1440px;
-  height: 135px;
+  width: 2010px;
+  height: 188px;
   top: 0;
   left: 0;
   background-color: #db062c91;
 }
 
-.macbook-air .navbar {
+.macbook-air .NAVBAR {
   position: absolute;
-  width: 1175px;
-  height: 68px;
-  top: 60px;
-  left: 119px;
+  width: 1678px;
+  height: 88px;
+  top: 94px;
+  left: 130px;
 }
 
 .macbook-air .text-wrapper {
-  width: 134px;
-  left: 342px;
   position: absolute;
-  top: 0;
+  width: 183px;
+  top: 1px;
+  left: 538px;
   font-family: "Kanit";
   font-weight: 700;
   color: #ffffff;
-  font-size: 24px;
+  font-size: 32px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -78,41 +79,41 @@
 
 .macbook-air .text-wrapper-2 {
   position: absolute;
-  width: 164px;
-  top: 0;
-  left: 541px;
+  width: 224px;
+  top: 1px;
+  left: 820px;
   font-family: "Kanit";
   font-weight: 700;
   color: #ffffff;
-  font-size: 24px;
+  font-size: 32px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
 }
 
 .macbook-air .text-wrapper-3 {
-  width: 96px;
-  left: 770px;
   position: absolute;
+  width: 131px;
   top: 0;
+  left: 1132px;
   font-family: "Kanit";
   font-weight: 700;
   color: #ffffff;
-  font-size: 24px;
+  font-size: 32px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
 }
 
 .macbook-air .text-wrapper-4 {
-  width: 220px;
-  left: 943px;
   position: absolute;
+  width: 300px;
   top: 0;
+  left: 1366px;
   font-family: "Kanit";
   font-weight: 700;
   color: #ffffff;
-  font-size: 24px;
+  font-size: 32px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -120,27 +121,27 @@
 
 .macbook-air .text-wrapper-5 {
   position: absolute;
-  width: 125px;
-  top: 0;
-  left: 156px;
+  width: 170px;
+  top: 1px;
+  left: 264px;
   font-family: "Kanit";
   font-weight: 700;
   color: #ffffff;
-  font-size: 24px;
+  font-size: 32px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
 }
 
 .macbook-air .text-wrapper-6 {
-  width: 118px;
-  left: 0;
   position: absolute;
+  width: 161px;
   top: 0;
+  left: 0;
   font-family: "Kanit";
   font-weight: 700;
   color: #ffffff;
-  font-size: 24px;
+  font-size: 32px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -148,258 +149,314 @@
 
 .macbook-air .mabuhay-ka-SDO {
   position: absolute;
-  width: 1006px;
-  top: 300px;
-  left: 220px;
-  -webkit-text-stroke: 2px #000000;
+  width: 1304px;
+  top: 420px;
+  left: 431px;
+  text-shadow: 10px 4px 4px #00000040;
+  -webkit-text-stroke: 2.59px #000000;
   font-family: "Feeling Passionate";
   font-weight: 400;
   color: #ffd646;
-  font-size: 96px;
+  font-size: 124.5px;
   text-align: center;
-  letter-spacing: -6.72px;
-  line-height: 141.1px;
+  letter-spacing: -8.71px;
+  line-height: 183px;
 }
 
 .macbook-air .span {
-  letter-spacing: -6.45px;
+  letter-spacing: -10.85px;
 }
 
 .macbook-air .text-wrapper-7 {
   font-family: "Figma Hand-Regular", Helvetica;
-  letter-spacing: -6.45px;
+  letter-spacing: -10.85px;
 }
 
 .macbook-air .SCHOOLS-DIVISION-OF {
   position: absolute;
-  width: 800px;
-  top: 184px;
-  left: 315px;
+  width: 1200px;
+  top: 260px;
+  left: 500px;
+  text-shadow: 13px 9px 3.5px #00000040;
   font-family: "Kanit";
   font-weight: 700;
   color: transparent;
-  font-size: 70px;
+  font-size: 90.8px;
   text-align: center;
-  letter-spacing: 4.2px;
-  line-height: 70px;
+  letter-spacing: 5.45px;
+  line-height: 90.8px;
 }
 
 .macbook-air .text-wrapper-8 {
   color: #070e84;
-  letter-spacing: 2.94px;
+  letter-spacing: 4.94px;
 }
 
 .macbook-air .text-wrapper-9 {
   color: #000000;
-  letter-spacing: 2.94px;
+  letter-spacing: 4.94px;
 }
 
 .macbook-air .text-wrapper-10 {
   color: #db062c;
-  letter-spacing: 2.94px;
+  letter-spacing: 4.94px;
 }
 
 .macbook-air .for-your-feedback {
   position: absolute;
-  width: 485px;
-  top: 745px;
-  left: 660px;
-  font-family: "Kanit-Bold", Helvetica;
-  font-weight: 700;
+  width: 629px;
+  top: 1000px;
+  left: 1155px;
+  font-family: "Kanit";
   color: #ffffff;
-  font-size: 16px;
+  font-size: 16.9px;
   text-align: right;
-  letter-spacing: 1.2px;
-  line-height: 20px;
+  letter-spacing: 1.56px;
+  line-height: 25.9px;
 }
 
 .macbook-air .qrcoderight {
   position: absolute;
-  width: 142px;
-  height: 196px;
-  top: 639px;
-  left: 1162px;
+  width: 200px;
+  height: 262px;
+  top: 835px;
+  left: 1791px;
   object-fit: cover;
 }
 
 .macbook-air .qrcodeleft {
   position: absolute;
-  width: 143px;
-  height: 196px;
-  top: 639px;
-  left: 94px;
+  width: 201px;
+  height: 262px;
+  top: 835px;
+  left: 122px;
   object-fit: cover;
+}
+
+.macbook-air .img {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 88px;
+  left: 1868px;
 }
 
 .macbook-air .rectangle-2 {
   position: absolute;
-  width: 1280px;
-  height: 183px;
-  top: 850px;
-  left: 60px;
-  background-color: #db062c;
-}
-
-.macbook-air .DEPED-logos {
-  position: absolute;
-  top: 905px;
-  left: 529px;
-  font-family: "Norwester";
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 70px;
-  text-align: right;
-  letter-spacing: 0;
-  line-height: 70px;
-  white-space: nowrap;
+  width: 1920px;
+  height: 274px;
+  top: 2791px;
+  left: 2574px;
 }
 
 .macbook-air .transparency-seal {
   position: absolute;
-  width: 331px;
-  height: 331px;
-  top: 1124px;
-  left: 106px;
+  width: 496px;
+  height: 496px;
+  top: 1451px;
+  left: 161px;
   object-fit: cover;
 }
 
 .macbook-air .bagong-pilipinas {
   position: absolute;
-  width: 331px;
-  height: 331px;
-  top: 1124px;
-  left: 466px;
+  width: 496px;
+  height: 496px;
+  top: 1451px;
+  left: 701px;
   object-fit: cover;
 }
 
 .macbook-air .depedlogo {
   position: absolute;
-  width: 331px;
-  height: 331px;
-  top: 1124px;
-  left: 826px;
+  width: 496px;
+  height: 496px;
+  top: 1451px;
+  left: 1241px;
   object-fit: cover;
 }
 
 .macbook-air .image {
-  width: 71px;
-  left: 1210px;
+  width: 106px;
+  left: 1781px;
   position: absolute;
-  height: 119px;
-  top: 1221px;
+  height: 178px;
+  top: 1596px;
   object-fit: cover;
 }
 
-.macbook-air .img {
-  width: 69px;
-  left: 5px;
+.macbook-air .image-2 {
+  width: 104px;
+  left: 32px;
   position: absolute;
-  height: 119px;
-  top: 1221px;
-  object-fit: cover;
-}
-
-.macbook-air .about-us-wrapper {
-  position: absolute;
-  width: 1280px;
-  height: 114px;
-  top: 1665px;
-  left: 0;
-  background-color: #062d70;
-}
-
-.macbook-air .about-us {
-  position: absolute;
-  top: 21px;
-  left: 507px;
-  font-family: "Norwester";
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 70px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: 70px;
-  white-space: nowrap;
-}
-
-.macbook-air .PCTABLET-VERSION {
-  position: absolute;
-  width: 548px;
-  height: 582px;
-  top: 1841px;
-  left: 683px;
-  object-fit: cover;
-}
-
-.macbook-air .PCTABLET-VERSION-2 {
-  position: absolute;
-  width: 577px;
-  height: 592px;
-  top: 1831px;
-  left: 33px;
-  object-fit: cover;
-}
-
-.macbook-air .div-wrapper {
-  position: absolute;
-  width: 1280px;
-  height: 114px;
-  top: 2494px;
-  left: 6px;
-  background-color: #db062c;
-}
-
-.macbook-air .PCTABLET-VERSION-3 {
-  position: absolute;
-  width: 548px;
-  height: 578px;
-  top: 2675px;
-  left: 45px;
-  object-fit: cover;
-}
-
-.macbook-air .PCTABLET-VERSION-4 {
-  position: absolute;
-  width: 554px;
-  height: 596px;
-  top: 2657px;
-  left: 702px;
+  height: 178px;
+  top: 1596px;
   object-fit: cover;
 }
 
 .macbook-air .overlap-2 {
   position: absolute;
-  width: 1280px;
-  height: 223px;
-  top: 3324px;
+  width: 1920px;
+  height: 258px;
+  top: 1080px;
+  left: 0;
+}
+
+.macbook-air .DEPED-logos {
+  position: absolute;
+  top: 75px;
+  left: 722px;
+  font-family: "Norwester-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 105px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 105px;
+  white-space: nowrap;
+}
+
+.macbook-air .rectangle-3 {
+  position: absolute;
+  width: 1920px;
+  height: 258px;
+  top: 0;
+  left: 0;
+  background-color: #be1638;
+  box-shadow: 0px 32px 28.4px #00000040;
+}
+
+.macbook-air .DEPED-logos-2 {
+  position: absolute;
+  top: 76px;
+  left: 740px;
+  font-family: "Norwester";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 105px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 105px;
+  white-space: nowrap;
+}
+
+.macbook-air .about-us-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 171px;
+  top: 2160px;
+  left: 0;
+  background-color: #062d70;
+  box-shadow: 0px 32px 28.4px #00000040;
+}
+
+.macbook-air .about-us {
+  top: 31px;
+  left: 765px;
+  position: absolute;
+  font-family: "Norwester";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 105px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 105px;
+  white-space: nowrap;
+}
+
+.macbook-air .PCTABLET-VERSION {
+  position: absolute;
+  width: 725px;
+  height: 770px;
+  top: 2390px;
+  left: 1027px;
+  object-fit: cover;
+}
+
+.macbook-air .PCTABLET-VERSION-2 {
+  position: absolute;
+  width: 763px;
+  height: 783px;
+  top: 2377px;
+  left: 168px;
+  object-fit: cover;
+}
+
+.macbook-air .div-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 171px;
+  top: 3240px;
+  left: 0;
+  background-color: #db062c;
+  box-shadow: 0px 11px 37.9px #00000040;
+}
+
+.macbook-air .about-us-2 {
+  top: 32px;
+  left: 765px;
+  position: absolute;
+  font-family: "Norwester";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 105px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 105px;
+  white-space: nowrap;
+}
+
+.macbook-air .PCTABLET-VERSION-3 {
+  position: absolute;
+  width: 781px;
+  height: 824px;
+  top: 3460px;
+  left: 150px;
+  object-fit: cover;
+}
+
+.macbook-air .PCTABLET-VERSION-4 {
+  position: absolute;
+  width: 784px;
+  height: 843px;
+  top: 3441px;
+  left: 1027px;
+  object-fit: cover;
+}
+
+.macbook-air .overlap-3 {
+  position: absolute;
+  width: 1920px;
+  height: 334px;
+  top: 4320px;
   left: 0;
   background-color: #062d70;
 }
 
 .macbook-air .macabulos-drive-brgy {
   position: absolute;
-  top: 120px;
-  left: 992px;
+  top: 180px;
+  left: 1490px;
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
   color: #ffffff;
-  font-size: 15px;
+  font-size: 22.5px;
   text-align: center;
   letter-spacing: 0;
-  line-height: 15px;
+  line-height: 22.5px;
 }
 
 .macbook-air .TO-CONTACT {
   position: absolute;
-  top: -30px;
-  left: 389px;
+  bottom: 100px;
+  left: 400px;
   font-family: "Norwester";
   font-weight: 400;
   color: transparent;
-  font-size: 50px;
-  text-align: center;
+  font-size: 105px;
+  text-align: right;
   letter-spacing: 0;
-  line-height: 70px;
+  line-height: 105px;
   white-space: nowrap;
 }
 
@@ -413,54 +470,62 @@
 
 .macbook-air .text-wrapper-13 {
   position: absolute;
-  top: 139px;
-  left: 171px;
+  top: 208px;
+  left: 258px;
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
   color: #ffffff;
-  font-size: 15px;
+  font-size: 22.5px;
   text-align: right;
   letter-spacing: 0;
-  line-height: 15px;
+  line-height: 22.5px;
   white-space: nowrap;
 }
 
 .macbook-air .element {
   position: absolute;
-  top: 120px;
-  left: 610px;
+  top: 180px;
+  left: 917px;
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
   color: #ffffff;
-  font-size: 15px;
+  font-size: 22.5px;
   text-align: right;
   letter-spacing: 0;
-  line-height: 15px;
+  line-height: 22.5px;
 }
 
 .macbook-air .EMAIL-recolor-to {
   position: absolute;
-  width: 73px;
-  height: 73px;
-  top: 111px;
-  left: 91px;
+  width: 110px;
+  height: 110px;
+  top: 166px;
+  left: 138px;
   object-fit: cover;
 }
 
 .macbook-air .CALL-recolor-to {
   position: absolute;
-  width: 73px;
-  height: 73px;
-  top: 111px;
-  left: 527px;
+  width: 110px;
+  height: 110px;
+  top: 166px;
+  left: 792px;
   object-fit: cover;
 }
 
 .macbook-air .LOCATION-recolor-to {
   position: absolute;
-  width: 74px;
-  height: 74px;
-  top: 113px;
-  left: 911px;
+  width: 111px;
+  height: 111px;
+  top: 170px;
+  left: 1368px;
   object-fit: cover;
+}
+
+.macbook-air .search {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 1761px;
+  left: 4417px;
 }
